@@ -1,0 +1,40 @@
+.center-box{
+    background-color: #190080;
+    margin: 20px;
+    width: 1000px;
+    height: 260px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.center-item{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+}
+#header-box{
+    background-color: #6395ec;
+    height: 110px;
+    display: flex;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+}
+img{
+    height: 75px;
+    width: 90px;
+    margin: 0 60px 0 10px;
+}
+h1{
+    color: white;
+    margin-right: 20px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
